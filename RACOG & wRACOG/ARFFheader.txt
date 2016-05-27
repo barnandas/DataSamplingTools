@@ -1,0 +1,11 @@
+@relation car
+
+@attribute buying {1,2,3,4}
+@attribute maint {1,2,3,4}
+@attribute doors {1,2,3,4}
+@attribute persons {1,2,3}
+@attribute lug_boot {1,2,3}
+@attribute safety {1,2,3}
+@attribute class {0,1}
+
+@data
